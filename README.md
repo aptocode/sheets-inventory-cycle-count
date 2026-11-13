@@ -82,7 +82,7 @@ This version uses the quantities you keep in the sheet.
 I also build versions that pull stock automatically from **Square, Shopify or QuickBooks**,
 add barcode scanning from the phone, and send alerts by WhatsApp.
 
-📩 Contact me on Upwork or through [aptocode.com](https://www.aptocode.com).
+📩 Contact me on [Upwork](https://www.upwork.com/freelancers/~0176e8afde5db388a0) or through [aptocode.com](https://www.aptocode.com).
 
 ---
 
