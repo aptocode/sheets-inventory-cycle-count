@@ -35,9 +35,10 @@ A Google Sheet that builds a short count list every morning:
 ## Where this comes from
 
 I built the first version of this process for my own retail stores (shapewear, 8 locations).
-The monthly count told us we had a loss, but never when or why.
-With a short daily count of the most-stolen items, a difference shows up the **next morning**,
-so we could check the camera footage for that one day and fix counting or receiving errors right away.
+A difference between the shelf and the point of sale could be a counting mistake, a sale under the wrong code,
+or a real loss, and we found out too late to know when or how it happened.
+With a short daily count and a review every morning, a difference shows up the **next day**,
+while it is still easy to explain or investigate.
 
 More about that project: [aptocode.com/portafolio](https://www.aptocode.com/portafolio/)
 
